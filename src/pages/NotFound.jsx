@@ -5,6 +5,7 @@ const NotFound = () => {
   return (
     <Layout>
         <h1>Sorry, NotFound</h1>
+        
     </Layout>
   )
 }
